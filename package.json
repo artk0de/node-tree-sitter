@@ -1,6 +1,6 @@
 {
-  "name": "tree-sitter",
-  "version": "0.25.1",
+  "name": "@artk0de/tree-sitter",
+  "version": "0.25.1-prebuild.3",
   "description": "Node.js bindings to the Tree-sitter parsing library",
   "repository": "http://github.com/tree-sitter/node-tree-sitter",
   "publishConfig": {
